@@ -64,6 +64,7 @@ html {
 /* stylelint-disable media-feature-name-no-unknown */
 
 @media (prefers-reduced-motion) {
+
   .gear {
     animation: none;
   }
@@ -71,6 +72,7 @@ html {
 }
 
 @media (prefers-color-scheme: dark) {
+
   .gear {
     background-color: #111;
   }
